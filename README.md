@@ -18,7 +18,7 @@ One of the link from the existing code didn't open ,the code was too large and t
                   1)Copy the HTTPS URL from Challenge-week-one repo
                   2)Create a new DIR on your local machine (mkdir ...)
                   3)Open terminal or GitBash ,then find you DIR and paste this : git clone https://github.com/Qu1nXy/Challenge-week-one.git
-                  4)That's IT 
+                  4)!!!Second option is Download Zip file!!!
                   
                   
                                         CLICK TO VISIT WEBSITE: https://github.com/Qu1nXy/Challenge-week-one
