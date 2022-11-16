@@ -10,7 +10,7 @@ I found it really interestind , didn't sleep properly ,because all my mind was f
                            
                                                   What problems have been solved?
                            
-One of the link from the existing code didn't open ,the code was too large and there was no logic ,in principle it doesn not exist now ,
+One of the link from the existing code didn't open ,the code was too large and there was no logic ,in principle it doesn't exist now ,
                                        but i am pleased that there are fewer components.
                                        
                                                  How to open this repo on your local device?
