@@ -20,7 +20,7 @@ One of the link from the existing code didn't open ,the code was too large and t
                   3)Open terminal or GitBash ,then find you DIR and paste this : git clone https://github.com/Qu1nXy/Challenge-week-one.git
                   4)That's IT 
                   
-                   Hope you enjoy)
+                                                              Hope you enjoy)
                        
                            
 
