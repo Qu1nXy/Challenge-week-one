@@ -21,7 +21,7 @@ One of the link from the existing code didn't open ,the code was too large and t
                   4)!!!Second option is Download Zip file!!!
                   
                   
-                                        CLICK TO VISIT WEBSITE: https://github.com/Qu1nXy/Challenge-week-one
+                                 !!!  ENTER THIS LINK TO CLONE REPO: https://github.com/Qu1nXy/Challenge-week-one/  !!!!
                   
                                                               Hope you enjoy)
                        
